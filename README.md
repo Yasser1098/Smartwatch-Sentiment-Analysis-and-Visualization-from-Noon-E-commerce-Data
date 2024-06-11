@@ -41,7 +41,7 @@ The cleaned data and sentiment analysis results were imported into Power BI to c
 ## 🔍 Insights
 
 - **Price and Ratings**: There is a strong relationship between the price of smartwatches and their ratings.
-- **Sentiment Distribution**: The majority of the comments are neutral, with a balanced mix of positive and negative comments.
+- **Sentiment Distribution**: The majority of the comments are neutral, followed by positive comments while negative comments are of less numbers.
 - **Top Smartwatch**: The analysis revealed the top-rated smartwatch available on Noon during the data collection period.
 
 ## 📌 Conclusion
