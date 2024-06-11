@@ -47,3 +47,6 @@ The cleaned data and sentiment analysis results were imported into Power BI to c
 ## 📌 Conclusion
 
 This project demonstrates skills in web scraping, data cleaning, sentiment analysis, and data visualization. By combining these techniques, we can derive meaningful insights from e-commerce data, which can be valuable for businesses looking to understand customer feedback and product performance.
+
+![image](https://github.com/Yasser1098/Smartwatch-Sentiment-Analysis-and-Visualization-from-Noon-E-commerce-Data/assets/129599070/08671256-996c-4378-9f1d-aac82abd6f95)
+
